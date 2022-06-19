@@ -1,12 +1,14 @@
 ---
 title: "The Accidental Geek: My Next Great Adventure Begins at Auth0"
-date: 3/22/2017
-Tags: 
--Auth0
--Career
+date: 3/22/2018
+Tags:
+  - Auth0
+  - Career
 ---
 
 Spring is a great time of year. The trees are starting to bud, the flowers are beginning to bloom and the grass is greener than ever. Spring represents a time of renewal and rebirth, and so it is fitting that this week I began my next great adventure. After 11 years of working at [DNN](http://dnnsoftware.com) and 15 years since I started work on the DNN open source project, it feels awesome to start work on something completely new.
+
+<!-- more -->
 
 This past Monday was my first day at [Auth0](http://auth0.com) as a Product Manager on the Auth0 Appliance team, and I'm really excited about the opportunity. Auth0 is a global leader in the Identity as a Service (IDaaS) market and has been growing at an incredible pace since it's founding in 2013. Auth0's products make it simple to implement robust and secure authentication for your app in just a few minutes, while also providing complete control over authentication flows and UI for customers with more complex requirements.
 

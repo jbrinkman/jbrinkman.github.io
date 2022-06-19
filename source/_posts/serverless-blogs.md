@@ -1,6 +1,7 @@
 ---
-title: Serverless Blogging
-date: 2017/10/18
+title: "Serverless Blogging"
+date: 10/18/2017
+excerpt: "Serverless computing is all the rage today. Services like AWS Lambda and Azure Functions allow you to build applications without worrying about where your code runs or when to scale up and down the resources for your application. While there is a server somewhere that is running your code, you don't have to worry about it. All of the server management details are handled for you and you can focus your effort on just your code. \n"
 tags:
   - Blog
   - Serverless
@@ -10,6 +11,8 @@ tags:
 ## Overview
 
 Serverless computing is all the rage today. Services like AWS Lambda and Azure Functions allow you to build applications without worrying about where your code runs or when to scale up and down the resources for your application. While there is a server somewhere that is running your code, you don't have to worry about it. All of the server management details are handled for you and you can focus your effort on just your code.
+
+<!-- more -->
 
 ## Evaluating My Options
 
