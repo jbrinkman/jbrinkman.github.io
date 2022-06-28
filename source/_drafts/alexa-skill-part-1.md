@@ -1,7 +1,6 @@
 ---
 title: "Can You Hear Me Now? Part 1"
 subtitle: "Building Your First Voice Application with Alexa, C# and Evoq Liquid Content"
-date: "11/06/2018"
 tags:
   - Alexa
   - AWS

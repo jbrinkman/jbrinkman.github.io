@@ -1,0 +1,18 @@
+/* * The magic to make dialogs work in DNN is to use the dialogClass option. Set
+it to dnnFormPopup and it will * be styled using the standard DNN styles. */
+<script>
+  $(function () {
+    $("#dialog-modal").dialog({
+      height: 140,
+      modal: true,
+      dialogClass: "dnnFormPopup",
+    });
+  });
+</script>
+
+<div id="dialog-modal" title="Basic modal dialog">
+  <p>
+    Adding the modal overlay screen makes the dialog look more prominent because
+    it dims out the page content.
+  </p>
+</div>
