@@ -23,7 +23,7 @@
 <meta property="og:description" content="Serverless computing is all the rage today. Services like AWS Lambda and Azure Functions allow you to build applications without worrying about where your code runs or when to scale up and down the re">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2017-10-18T00:00:00.000Z">
-<meta property="article:modified_time" content="2022-06-28T13:17:05.648Z">
+<meta property="article:modified_time" content="2022-07-01T13:13:03.243Z">
 <meta property="article:author" content="Joe Brinkman">
 <meta property="article:tag" content="Blog">
 <meta property="article:tag" content="Serverless">
@@ -136,19 +136,19 @@
     <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
   </div>
 
-  <script>
-        var imgUrls = "css/images/pose01.jpg,https://source.unsplash.com/collection/954550/1920x1080,https://source.unsplash.com/collection/954550/1920x1081,https://source.unsplash.com/collection/11649432/1920x1080,https://source.unsplash.com/collection/11649432/1920x1081".split(",");
-        var random = Math.floor((Math.random() * imgUrls.length ));
-        if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
-          document.getElementById("originBg").src=imgUrls[random];
-          document.getElementById("blurBg").src=imgUrls[random];
-        } else {
-          document.getElementById("originBg").src='/' + imgUrls[random];
-          document.getElementById("blurBg").src='/' + imgUrls[random];
-        }
+  
+    <script>
+      var imgUrls = "https://source.unsplash.com/collection/11649432/1920x1080,https://source.unsplash.com/collection/11649432/1920x1081".split(",");
+      var random = Math.floor((Math.random() * imgUrls.length ));
+      if (imgUrls[random].startsWith('http') || imgUrls[random].indexOf('://') >= 0) {
+        document.getElementById("originBg").src=imgUrls[random];
+        document.getElementById("blurBg").src=imgUrls[random];
+      } else {
+        document.getElementById("originBg").src='/' + imgUrls[random];
+        document.getElementById("blurBg").src='/' + imgUrls[random];
+      }
     </script>
-
-
+  
 
 
 <header id="allheader" class="site-header" role="banner" 
@@ -157,9 +157,7 @@
       <div class="site-branding">
 
           <h1 class="site-title">
-            
               <a href="/" title="Joe Brinkman" rel="home"> Joe Brinkman </a>
-            
           </h1>
           
           
@@ -175,13 +173,9 @@
                     
                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/"> <a class="" href="/">Home</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="archives"> <a class="" href="/archives">Archives</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/archives"> <a class="" href="/archives">Archives</a> </li>
                     
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="categories"> <a class="" href="/categories">Categories</a> </li>
-                    
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="tags"> <a class="" href="/tags">Tags</a> </li>
-                    
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="about"> <a class="" href="/about">About</a> </li>
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/about"> <a class="" href="/about">About</a> </li>
                     
               </ul>
             </div>
@@ -293,15 +287,13 @@
   <aside id="sidebar">
     <div id="toc" class="toc-article">
     <strong class="toc-title">Contents</strong>
-    
       <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Overview"><span class="nav-number">1.</span> <span class="nav-text">Overview</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Evaluating-My-Options"><span class="nav-number">2.</span> <span class="nav-text">Evaluating My Options</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Picking-a-Site-Generator"><span class="nav-number">3.</span> <span class="nav-text">Picking a Site Generator</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Just-a-Few-Comments"><span class="nav-number">4.</span> <span class="nav-text">Just a Few Comments</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Performance-and-Security"><span class="nav-number">5.</span> <span class="nav-text">Performance and Security</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Publishing"><span class="nav-number">6.</span> <span class="nav-text">Publishing</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Wrapping-it-Up"><span class="nav-number">7.</span> <span class="nav-text">Wrapping it Up</span></a></li></ol>
-    
     </div>
   </aside>
+
 </section>
         
       </div>
-
     </div>
     <footer id="footer" class="site-footer">
   
@@ -332,6 +324,9 @@
 
 
   <!-- headerblur min height -->
+  
+    var headerblur = document.getElementById("header-blur");
+    headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
   
 </script>
 
