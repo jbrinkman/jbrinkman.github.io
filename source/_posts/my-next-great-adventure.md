@@ -1,7 +1,7 @@
 ---
 title: "The Accidental Geek: My Next Great Adventure Begins at Auth0"
 date: 3/22/2018
-Tags:
+tags:
   - Auth0
   - Career
 ---

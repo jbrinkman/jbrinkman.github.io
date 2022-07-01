@@ -5,10 +5,8 @@
 # Header Menu
 menu:
   Home: /
-  Archives: archives
-  Categories: categories
-  Tags: tags
-  About: about
+  Archives: /archives
+  About: /about
 rss: /atom.xml
 
 # Set default keywords (Use a comma to separate)

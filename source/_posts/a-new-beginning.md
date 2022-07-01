@@ -1,7 +1,7 @@
 ---
 title: "The Accidental Geek: A New Beginning"
 date: 10/14/2017
-Tags:
+tags:
   - DNN
   - Career
 ---
