@@ -64,6 +64,7 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 disqus_shortname:
+utterances: jbrinkman/jbrinkman.github.io
 
 # Code Highlight theme
 # Available value:
