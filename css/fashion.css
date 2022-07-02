@@ -995,8 +995,9 @@ body.search .page .entry-footer {
 .widget-tab-nav {
 	border-bottom: 2px solid #333;
 }
-.tagcloud
+.tagcloud {
     margin-bottom: 10px
+}
 
 /* Widget Tabs */
 ul.widget-tab-nav {
