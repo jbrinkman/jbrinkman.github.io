@@ -1,9 +1,10 @@
 ---
 title: "The Accidental Geek: A New Beginning"
 date: 10/14/2017
-tags:
-  - DNN
-  - Career
+tags: ["DNN", "Career"]
+hero: markus-spiske-code.jpeg
+heroPhotographer: Markus Spiske
+heroLink: https://unsplash.com/@markusspiske
 ---
 
 In February 2003, I created a new website under the name "The Accidental Geek". This site was built using a new web application framework called IBuySpy Workshop and was a place where I could blog about my technology passions. I never intended to become a geek, but I fell in love with electronics as a young kid, and later moved into programming as computers became more accessible. The name seemed to fit: and the domain was available.

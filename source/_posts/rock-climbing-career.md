@@ -3,6 +3,8 @@ title: My Rock Climbing Adventure
 date: 2022-07-01
 tags: ["Career", "Improving"]
 hero: rock-climbing.jpeg
+heroPhotographer: Brad Barmore
+heroLink: https://unsplash.com/@bradbarmore
 ---
 
 Over the last 35 years I have learned that your career rarely follows a straight path. It is not so much climbing a ladder as it is rock climbing journey. Sometimes you progress straight up the face with ease. Sometimes you must sit in place for a while to ponder your next move. And occassionally you may need to retreat or move laterally to find a new approach to continue your climb. In some rare instances, you determine that the cliff you are on, is not the one you want to climb and you go in search of a different cliff or rock wall. This is the story of the last 5 years of my ongoing rock climbing career adventure.
