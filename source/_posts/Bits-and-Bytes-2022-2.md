@@ -9,7 +9,7 @@ tags:
   - Clean Architecture
   - DevOps
   - Docker
-  - TerraformIf
+  - Terraform
   - NodeJS
   - TypeScript
   - Career
