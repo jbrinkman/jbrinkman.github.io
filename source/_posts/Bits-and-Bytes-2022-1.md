@@ -11,7 +11,7 @@ tags:
   - TypeScript
 excerpt: >-
   Bits and Bytes is my list of interesting videos and code
-  projects from my software journey. Edition 2022-1
+  projects that I've found on my software journey. Edition 2022-1
 date: 2022-07-11
 ---
 
