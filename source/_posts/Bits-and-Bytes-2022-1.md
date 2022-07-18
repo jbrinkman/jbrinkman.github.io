@@ -1,18 +1,18 @@
 ---
-title: Interesting Finds - 2022-1
-date: 2022-07-11
+title: Bits and Bytes - 2022-1
 tags:
-  [
-    "Link Blog",
-    "Development",
-    "MacOS",
-    ".Net",
-    "SOLID",
-    "NestJS",
-    "NodeJS",
-    "TypeScript",
-  ]
-excerpt: "Interesting finds of the week. My weekly list of interesting videos and code projects from my software journey. Edition 2022-1"
+  - Link Blog
+  - Development
+  - MacOS
+  - .Net
+  - SOLID
+  - NestJS
+  - NodeJS
+  - TypeScript
+excerpt: >-
+  Bits and Bytes is my list of interesting videos and code
+  projects from my software journey. Edition 2022-1
+date: 2022-07-11
 ---
 
 ## Videos
