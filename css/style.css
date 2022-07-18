@@ -539,6 +539,11 @@ a.article-title:hover {
   margin-top: 1.6em;
   margin-bottom: 1.6em;
 }
+.article-entry ul li,
+.article-entry ol li,
+.article-entry dl li {
+  margin-bottom: 0.5rem;
+}
 .article-entry img,
 .article-entry video {
   max-width: 100%;
