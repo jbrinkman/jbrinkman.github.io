@@ -15,8 +15,49 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Fri, 29 Jul 2022 18:56:28 GMT</pubDate>
+    <pubDate>Wed, 03 Aug 2022 00:19:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-4</title>
+      <link>http://joe.brinkman.me/2022/08/02/Bits-and-Bytes-2022-4/</link>
+      <guid>http://joe.brinkman.me/2022/08/02/Bits-and-Bytes-2022-4/</guid>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey. Edition 2022-4</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs"><a href="#Blogs" class="headerlink" title="Blogs"></a>Blogs</h2><ul><li><a href="https://www.sadukie.com/2022/07/26/cultivating-a-culture-of-learning/">Cultivating a Culture of Learning</a> &#x2F;&#x2F; sadukie</li><li><a href="https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/">Lessons From a Startup Pivot</a> &#x2F;&#x2F; Phil Haack</li><li><a href="https://daniel.scheufler.io/2022/07/20/council-of-elrond/">Humble Leadership and the Council of Elrond</a> &#x2F;&#x2F; Daniel Scheufler</li><li><a href="https://www.rubberstampedcode.com/data-storage-options-available-in-azure/">Data Storage Options Available in Azure</a> &#x2F;&#x2F; Drew Demechko</li><li><a href="https://improving.com/thoughts/thought-leadership-one-creators-journey--thoughts">Thought Leadership: One Creators Journey</a> &#x2F;&#x2F; Tim Dickey</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/VcOMq3LQtBU">Mastering async code with Typescript and Javascript</a> &#x2F;&#x2F; Jack Herrington &#x2F;&#x2F; <em>Sep 01, 2021</em></li><li><a href="https://youtu.be/0WvGwOoK-CI">The NEW caching you should be using in .NET 7</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Jul 18, 2022</em></li><li><a href="https://youtu.be/clZCrVZH4Gg">Windows and Linux: Together at Last?</a> &#x2F;&#x2F; Dave’s Garage &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/HqwY_TyxeJw">Guy Royse - Dungeons, Dragons, and Graph Databases - NDC London 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Jul 27, 2022</em></li><li><a href="https://youtu.be/ttDv80rKoJI">Chatting in WebAssembly with Guy Royse</a> &#x2F;&#x2F; Coding After Work &#x2F;&#x2F; <em>Apr 19, 2021</em></li><li><a href="https://youtu.be/ee2wAhQxGRg">Using Azure Automation Account to run your PowerShell scripts</a> &#x2F;&#x2F; Cloud Lunch and Learn &#x2F;&#x2F; <em>Jun 16, 2020</em></li><li><a href="https://youtu.be/pVUipjhSdmE">Where is your Path taking you? - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Jul 11, 2022</em></li><li><a href="https://youtu.be/5cUQOEEc-og">Being a Developer is More Than Code: Jake Dohm, Development Lead, Steadfast Design</a> &#x2F;&#x2F; All Things Open &#x2F;&#x2F; <em>May 06, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/pure-css/pure">PureCSS</a> &#x2F;&#x2F; A set of small, responsive CSS modules that you can use in every web project.</li><li><a href="https://github.com/prettier/prettier">Prettier</a> &#x2F;&#x2F; Prettier is an opinionated code formatter.</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
+      
+      <category domain="http://joe.brinkman.me/tags/WebAssembly/">WebAssembly</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/08/02/Bits-and-Bytes-2022-4/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-3</title>
