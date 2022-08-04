@@ -10,6 +10,8 @@ tags:
 hero: kaushik-panchal-clouds.jpeg
 heroPhotographer: Kaushik Panchal
 heroLink: https://unsplash.com/@kaushikpanchal
+excerpt: >-
+  In 2017 I relaunched my blog using a lightweight solution built around a static site generator and GitHub Pages. I detailed my blogging solution in the post Serverless Blogging. Having written hundreds of blog posts over the last 20 years, I have a good sense of those features that I rely on, and those that I don't find very important for my needs. I used to believe that content management systems were great platforms for building blogs, but the reality is, blog content is fairly static. Once written, a blog really shouldn't change except for rare occurances where you need to fix typos or to correct mis-statements.
 date: 2022-08-04
 ---
 
