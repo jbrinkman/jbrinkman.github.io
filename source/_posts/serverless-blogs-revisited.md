@@ -3,13 +3,14 @@ title: Serverless Blogs Revisited
 tags:
   - serverless
   - github
+  - ci/cd
   - blog
   - hexo
   - static site generator
 hero: kaushik-panchal-clouds.jpeg
 heroPhotographer: Kaushik Panchal
 heroLink: https://unsplash.com/@kaushikpanchal
-date: 2022-07-02 22:03:02
+date: 2022-08-04
 ---
 
 ## Overview
