@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    
+    <title>
+      Serverless Blogs Revisited | Joe Brinkman
+    </title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    
+    <meta
+      name="keywords"
+      content="serverlessgithubbloghexostatic site generator"
+    />
+      <meta name="description" content="OverviewIn 2017 I relaunched my blog using a lightweight solution built around a static site generator and GitHub Pages. I detailed my blogging solution in the post Serverless Blogging. Having written">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Serverless Blogs Revisited">
+<meta property="og:url" content="http://joe.brinkman.me/2022/07/02/serverless-blogs-revisited/">
+<meta property="og:site_name" content="Joe Brinkman">
+<meta property="og:description" content="OverviewIn 2017 I relaunched my blog using a lightweight solution built around a static site generator and GitHub Pages. I detailed my blogging solution in the post Serverless Blogging. Having written">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://joe.brinkman.me/2022/07/02/serverless-blogs-revisited/kaushik-panchal-clouds.jpeg">
+<meta property="article:published_time" content="2022-07-02T22:03:02.000Z">
+<meta property="article:modified_time" content="2022-08-04T19:54:19.973Z">
+<meta property="article:author" content="Joe Brinkman">
+<meta property="article:tag" content="serverless">
+<meta property="article:tag" content="github">
+<meta property="article:tag" content="blog">
+<meta property="article:tag" content="hexo">
+<meta property="article:tag" content="static site generator">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://joe.brinkman.me/2022/07/02/serverless-blogs-revisited/kaushik-panchal-clouds.jpeg"> 
+    <link rel="alternate" href="/rss2.xml" title="Joe Brinkman" type="application/rss+xml" />
+    
+    
+    <link rel="alternate" href="/atom.xml" title="Joe Brinkman" type="application/atom+xml" />
+    
+    <link rel="icon" href="/css/images/favicon.ico"
+    />
+    
+    <link
+      href="//fonts.googleapis.com/css?family=Source+Code+Pro"
+      rel="stylesheet"
+      type="text/css"
+    />
+    
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <style type="text/css">
+      @font-face {
+        font-family: futura-pt;
+        src: url(https://use.typekit.net/af/9749f0/00000000000000000001008f/27/l?subset_id=2&fvd=n5)
+          format("woff2");
+        font-weight: 500;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: futura-pt;
+        src: url(https://use.typekit.net/af/90cf9f/000000000000000000010091/27/l?subset_id=2&fvd=n7)
+          format("woff2");
+        font-weight: 500;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: futura-pt;
+        src: url(https://use.typekit.net/af/8a5494/000000000000000000013365/27/l?subset_id=2&fvd=n4)
+          format("woff2");
+        font-weight: lighter;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: futura-pt;
+        src: url(https://use.typekit.net/af/d337d8/000000000000000000010095/27/l?subset_id=2&fvd=i4)
+          format("woff2");
+        font-weight: 400;
+        font-style: italic;
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      id="athemes-headings-fonts-css"
+      href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A200%2C300%2C400%2C700&amp;ver=4.6.1"
+      type="text/css"
+      media="all"
+    />
+
+    <link
+      rel="stylesheet"
+      id="athemes-headings-fonts-css"
+      href="//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700&amp;ver=4.6.1"
+      type="text/css"
+      media="all"
+    />
+    
+<link rel="stylesheet" href="/css/style.css">
+ 
+<script src="/js/jquery-3.1.1.min.js"></script>
+
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/fashion.css" />
+    <link rel="stylesheet" href="/css/glyphs.css" />
+  <meta name="generator" content="Hexo 6.2.0"></head>
+</html>
+
+
+
+  <body data-spy="scroll" data-target="#toc" data-offset="50">
+
+
+  <!-- is_current("about", false) && -->
+
+  
+  <div class="site-header-image">
+    <img id="originBg" width="100%" alt="Unsplash Photo" src="">
+     
+<div class="site-header-attribution">Photo by <a target="_blank" rel="noopener" href='https://unsplash.com/@kaushikpanchal'>Kaushik Panchal</a> on <a target="_blank" rel="noopener" href='https://unsplash.com'>Unsplash</a></div>
+
+  </div>
+
+  <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
+    <img id="blurBg" width="100%" style="top: 96%" alt="Hike News" src="">
+  </div>
+
+   
+    <script>
+      let imgUrl = "kaushik-panchal-clouds.jpeg"
+      document.getElementById("originBg").src=imgUrl;
+      document.getElementById("blurBg").src=imgUrl;
+    </script>      
+  
+
+
+<header id="allheader" class="site-header" role="banner" 
+   style="width: 100%; position: absolute; top:0; background: rgba(255,255,255,.65);"  >
+  <div class="clearfix container">
+      <div class="site-branding">
+
+          <h1 class="site-title">
+              <a href="/" title="Joe Brinkman" rel="home"> Joe Brinkman </a>
+          </h1>
+          
+          
+            <div class="site-description">entrepreneur, technologist, developer, author, speaker, accidental geek</div>
+          
+            
+          <nav id="main-navigation" class="main-navigation" role="navigation">
+            <a class="nav-open">Menu</a>
+            <a class="nav-close">Close</a>
+
+            <div class="clearfix sf-menu">
+              <ul id="main-nav" class="menu sf-js-enabled sf-arrows"  style="touch-action: pan-y;">
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/"> <a class="" href="/">Home</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/archives"> <a class="" href="/archives">Archives</a> </li>
+                    
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" linktext="/about"> <a class="" href="/about">About</a> </li>
+                    
+              </ul>
+            </div>
+          </nav>
+
+      </div>
+  </div>
+</header>
+
+
+  <div id="container">
+    <div id="wrap">
+            
+      <div id="content" class="outer">
+        
+          <section id="main" style="float:none;"><article id="post-serverless-blogs-revisited" style="width: 66%; float:left;" class="article article-type-post" itemscope itemprop="blogPost" >
+  <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="thumb" class="article-title" itemprop="name">
+      Serverless Blogs Revisited
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-meta">
+      
+	<a href="/2022/07/02/serverless-blogs-revisited/" class="article-date">
+	  <time datetime="2022-07-02T22:03:02.000Z" itemprop="datePublished">July 2, 2022</time>
+	</a>
+
+       
+    </div>
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p>In 2017 I relaunched my blog using a lightweight solution built around a static site generator and GitHub Pages. I detailed my blogging solution in the post <a href="https://joe.brinkman.me/2017/10/18/serverless-blogs/">Serverless Blogging</a>. Having written hundreds of blog posts over the last 20 years, I have a good sense of those features that I rely on, and those that I don’t find very important for my needs. I used to believe that content management systems were great platforms for building blogs, but the reality is, blog content is fairly static. Once written, a blog really shouldn’t change except for rare occurances where you need to fix typos or to correct mis-statements.</p>
+<span id="more"></span>
+
+<h2 id="Picking-a-Site-Generator"><a href="#Picking-a-Site-Generator" class="headerlink" title="Picking a Site Generator"></a>Picking a Site Generator</h2><p>Most static site generators require some level of coding skills in order to build or enhance the themes used for your site. Themes control aspects like when to show content in the sidebar, the colors and styles used on the site, how the navigation will work, etc. Anything having to do with the look and feel of the site is likely defined by the theme. If you want to have page elements that are interactive or that change from page to page, that will likely require some type of coding.</p>
+<p>When I originally relaunched my blog, I was just coming off of 15 years of writing software using .Net in both VB and C#. Choosing a platform based on .Net was a natural fit as I felt very comfortable with my ability to maintain and enhance the platform as needed. Wyam was a popular open source .Net based static site generator at the time. I felt very comfortable jumping in and figuring out how it worked and how to extend the platform as needed to suit my needs.</p>
+<p>In the last 5 years my life has changed substantially and for the past year I have spent most of my time writing code in NodeJS. Wyam is no longer a fully open source platform with the newest .Net core version transitioning to a paid licensing model. This seemed like the perfect opportunity to find a stable NodeJS based platform. I wanted to be able to keep the little bit of content I had created in Wyam so finding a generator that supported Markdown was high on my list of features.</p>
+<p>After a short search I have settled on <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a> as my new platform of choice. My content is still written in Markdown, so I can use pretty much any editor I choose (including the built in file editor on GitHub). Translating the old content from Wyam was just a matter of updating the front-matter for the blog posts. I didn’t have a lot of content and didn’t really care about maintaining URL format so the migration was fairly easy.</p>
+<h2 id="Leave-a-Comment"><a href="#Leave-a-Comment" class="headerlink" title="Leave a Comment"></a>Leave a Comment</h2><p>As before, I decided to continue using <a target="_blank" rel="noopener" href="https://utteranc.es/">Utteranc.es</a>, which works very well for my needs. All of my comments live in “issues” and are maintained by GitHub. I can trust their infrastructure to handle the basics, and if needed, I have full access to their API to write my own bots to screen out problematic comments or handle other comment management chores. This provides me a lot of flexibility and control over the comments and the commenting system. Utteranc.es is not supported out of the box, but litteraly</p>
+<p><img src="/2022/07/02/serverless-blogs-revisited/comments.png"></p>
+<h2 id="Performance-and-Security"><a href="#Performance-and-Security" class="headerlink" title="Performance and Security"></a>Performance and Security</h2><p>In 2017, GitHub did not have all of the features that it has today. GitHub Pages could host and serve static pages, but you didn’t have control over the site URL&#x2F;domain, and you didn’t have the ability to serve pages via SSL&#x2F;TLS. To solve this problem, I used <a target="_blank" rel="noopener" href="https://www.cloudflare.com/">CloudFlare</a> as a proxy for my GitHub hosted pages which provided me the ability to use a custom domain and to serve pages with HTTPS: instead of just HTTP:. Since then, GitHub has addressed these two deficiencies with GitHub Pages. I now have multiple options on how to configure Pages to use a domain of my choosing and to serve the content securely. These features have allowed me to drop CloudFlare from my site architecture which means I have one less piece of infrastructure I have to deal with. This lets me keep more of my process on GitHub which simplifies the overall architecture of the site.</p>
+<h2 id="Publishing"><a href="#Publishing" class="headerlink" title="Publishing"></a>Publishing</h2><p>Publishing my blog posts follows a similar workflow as it did when using Wyam. I write my blog post locally as markdown. Once my post is complete and everything looks good on my machine, I just check-in my new markdown file and any associated images. Previously, I had been using <a target="_blank" rel="noopener" href="https://www.appveyor.com/">AppVeyor</a> to monitor GitHub and to run the “publishing” step in Wyam whenever new files were added to the repository. Wyam would convert the markdown, images and use my configured theme to generate the final static site. The AppVeyor scripts would then check-in these files into the GitHub-pages branch of the repository which is what would actually get served to anyone coming to my site.</p>
+<p>In October of 2018, GitHub launched <a target="_blank" rel="noopener" href="https://github.com/features/actions">GitHub Actions</a> which is a full automation system capable of handling almost any CI&#x2F;CD requirements. Once again, I found another part of my site hosting services that I could migrate to GitHub infrastructure and remove one more external service from the mix. GitHub actions are written in a fairly standard YAML format which is comparable to many of the other CI&#x2F;CD systems I have worked with.</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">Pages</span></span><br><span class="line"></span><br><span class="line"><span class="attr">on:</span></span><br><span class="line">  <span class="attr">push:</span></span><br><span class="line">    <span class="attr">branches:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">main</span> <span class="comment"># default branch</span></span><br><span class="line"></span><br><span class="line"><span class="attr">jobs:</span></span><br><span class="line">  <span class="attr">pages:</span></span><br><span class="line">    <span class="attr">runs-on:</span> <span class="string">ubuntu-latest</span></span><br><span class="line">    <span class="attr">steps:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">uses:</span> <span class="string">actions/checkout@v2</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">submodules:</span> <span class="string">recursive</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Use</span> <span class="string">Node.js</span> <span class="number">16.</span><span class="string">x</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">actions/setup-node@v2</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">node-version:</span> <span class="string">"16"</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Cache</span> <span class="string">NPM</span> <span class="string">dependencies</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">actions/cache@v2</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">path:</span> <span class="string">node_modules</span></span><br><span class="line">          <span class="attr">key:</span> <span class="string">${{</span> <span class="string">runner.OS</span> <span class="string">}}-npm-cache</span></span><br><span class="line">          <span class="attr">restore-keys:</span> <span class="string">|</span></span><br><span class="line">            <span class="string">${{</span> <span class="string">runner.OS</span> <span class="string">}}-npm-cache</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Install</span> <span class="string">Dependencies</span></span><br><span class="line">        <span class="attr">run:</span> <span class="string">npm</span> <span class="string">install</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Build</span></span><br><span class="line">        <span class="attr">run:</span> <span class="string">npm</span> <span class="string">run</span> <span class="string">build</span></span><br><span class="line">      <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Deploy</span></span><br><span class="line">        <span class="attr">uses:</span> <span class="string">peaceiris/actions-gh-pages@v3</span></span><br><span class="line">        <span class="attr">with:</span></span><br><span class="line">          <span class="attr">github_token:</span> <span class="string">${{</span> <span class="string">secrets.GITHUB_TOKEN</span> <span class="string">}}</span></span><br><span class="line">          <span class="attr">publish_dir:</span> <span class="string">./public</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="Wrapping-it-Up"><a href="#Wrapping-it-Up" class="headerlink" title="Wrapping it Up"></a>Wrapping it Up</h2><p>Overall, I am very happy with the new platform. Like all software, there is a bit of a learning curve to get up and running. Once it is working, writing new blogs is pretty painless. Like Wyam before it, Hexo provides me a lot of flexibility to customize the system the way I like. I have full access to the source code and it has a nice plugin ecosystem so I don’t feel I have to write every extension myself.</p>
+<p>I enjoy blogging and the process of learning that blogging forces you to do in order to write a well thought out article. Part of the challenge is to just rebuild the habit that I built during more than 15 years of open source development. This post is just the latest brick in that rebuilding effort. Whether you are new to blogging, or have taken an extended break, I encourage you to go out and give it a try. The platforms that are available now are so much more sophisticated than what we had available 20 years ago when I wrote my first blog post. And what’s even better, you can do it all for free, and someone else has to worry about keeping the servers up and running and you can spend all of your time just coming up with interesting things to write about.</p>
+
+      
+    </div>
+    <footer class="entry-meta entry-footer">
+      
+      
+  <span class="ico-tags"></span>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/blog/" rel="tag">blog</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/github/" rel="tag">github</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/hexo/" rel="tag">hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/serverless/" rel="tag">serverless</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/static-site-generator/" rel="tag">static site generator</a></li></ul>
+
+      
+        
+
+	<script src="https://utteranc.es/client.js"
+			repo="jbrinkman/jbrinkman.github.io"
+			issue-term="pathname"
+			label="blog comment"
+			theme="github-light"
+			crossorigin="anonymous"
+			async>
+	</script>
+
+
+      
+    </footer>
+    <hr class="entry-footer-hr">
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2022/07/11/Bits-and-Bytes-2022-1/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Bits and Bytes - 2022-1
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2022/07/01/rock-climbing-career/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">My Rock Climbing Adventure</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+<!-- Table of Contents -->
+
+  <aside id="sidebar">
+    <div id="toc" class="toc-article">
+    <strong class="toc-title">Contents</strong>
+      <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Overview"><span class="nav-number">1.</span> <span class="nav-text">Overview</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Picking-a-Site-Generator"><span class="nav-number">2.</span> <span class="nav-text">Picking a Site Generator</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Leave-a-Comment"><span class="nav-number">3.</span> <span class="nav-text">Leave a Comment</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Performance-and-Security"><span class="nav-number">4.</span> <span class="nav-text">Performance and Security</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Publishing"><span class="nav-number">5.</span> <span class="nav-text">Publishing</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Wrapping-it-Up"><span class="nav-number">6.</span> <span class="nav-text">Wrapping it Up</span></a></li></ol>
+    </div>
+  </aside>
+
+</section>
+        
+      </div>
+    </div>
+    <footer id="footer" class="site-footer">
+  
+
+  <div class="clearfix container">
+    <div class="site-info">
+      &copy; 2022 Joe Brinkman All Rights Reserved.
+    </div>
+    <div class="site-credit">
+      Theme by
+      <a
+        href="https://github.com/iTimeTraveler/hexo-theme-hipaper"
+        target="_blank"
+        >hipaper</a
+      >
+    </div>
+  </div>
+</footer>
+
+<!-- min height -->
+
+<script>
+  var wrapdiv = document.getElementById("wrap");
+  var contentdiv = document.getElementById("content");
+
+  wrapdiv.style.minHeight = document.body.offsetHeight - document.getElementById("allheader").offsetHeight - document.getElementById("footer").offsetHeight + "px";
+  contentdiv.style.minHeight = document.body.offsetHeight - document.getElementById("allheader").offsetHeight - document.getElementById("footer").offsetHeight + "px";
+
+
+  <!-- headerblur min height -->
+  
+    var headerblur = document.getElementById("header-blur");
+    headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
+  
+</script>
+
+      
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+ 
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+  
+<script src="/js/script.js"></script>
+ 
+<script src="/js/bootstrap.js"></script>
+ 
+<script src="/js/main.js"></script>
+ 
+
+
+  </div>
+
+  <a id="rocket" href="#top" class=""></a>
+  <script type="text/javascript" src="/js/totop.js" async=""></script>
+</body>
+</html>
