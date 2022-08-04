@@ -12,6 +12,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
+    "@dpu/hexo-github-include": "^0.0.2",
     "hexo": "^6.2.0",
     "hexo-asset-image-for-hexo5": "^2.1.7",
     "hexo-fontawesome": "^2.3.0",
