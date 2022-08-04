@@ -16,6 +16,9 @@ tags:
 excerpt: >-
   Bits and Bytes is my list of interesting videos and code projects that I've
   found on my software journey. Edition 2022-4
+hero: b-n-b.jpg
+heroPhotographer: Joe Brinkman
+heroLink: https://unsplash.com/@jbrinkman
 ---
 
 ## Blogs
