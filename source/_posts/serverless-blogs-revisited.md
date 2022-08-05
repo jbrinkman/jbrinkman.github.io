@@ -33,7 +33,7 @@ After a short search I have settled on [Hexo](https://hexo.io/) as my new platfo
 
 ## Leave a Comment
 
-As before, I decided to continue using [Utteranc.es](https://utteranc.es/), which works very well for my needs. All of my comments live in "issues" and are maintained by GitHub. I can trust their infrastructure to handle the basics, and if needed, I have full access to their API to write my own bots to screen out problematic comments or handle other comment management chores. This provides me a lot of flexibility and control over the comments and the commenting system. Utteranc.es is not supported out of the box, but litteraly
+As before, I decided to continue using [Utteranc.es](https://utteranc.es/), which works very well for my needs. All of my comments live in "issues" and are maintained by GitHub. I can trust their infrastructure to handle the basics, and if needed, I have full access to their API to write my own bots to screen out problematic comments or handle other comment management chores. This provides me a lot of flexibility and control over the comments and the commenting system. Utteranc.es is not supported out of the box, but litteraly was just a couple of lines of code in the theme, and one configuration file change to support this commenting system.
 
 ![](./serverless-blogs-revisited/comments.png)
 
