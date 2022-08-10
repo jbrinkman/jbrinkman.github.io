@@ -28,7 +28,7 @@ date: 2022-08-09
 - [Free Azure Services?!](https://www.sadukie.com/2022/08/02/free-azure-services/) // Sadukie
 - [Architecting Cloud Native .Net Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/) // Robert Vettor & Steve "Ardalis" Smith
 
-[![CodeLaunch Ohio - Register for Free!](./Bits-and-Bytes-2022-5/codelaunch.png)](www.eventbrite.com/e/335464723017/?discount=CLOH-VIP-IMPROVING)
+[ ![CodeLaunch Ohio - Register for Free!](./Bits-and-Bytes-2022-5/codelaunch.png) ](https://www.eventbrite.com/e/335464723017/?discount=CLOH-VIP-IMPROVING)
 
 ## Video
 
