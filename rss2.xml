@@ -15,8 +15,67 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Wed, 10 Aug 2022 13:57:20 GMT</pubDate>
+    <pubDate>Thu, 18 Aug 2022 12:17:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-6</title>
+      <link>http://joe.brinkman.me/2022/08/16/Bits-and-Bytes-2022-6/</link>
+      <guid>http://joe.brinkman.me/2022/08/16/Bits-and-Bytes-2022-6/</guid>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey. Edition 2022-5</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://code-maze.com/blazor-webassembly-exception-handling-error-boundaries/">Blazor WebAssembly Exception Handling With Error Boundaries</a> &#x2F;&#x2F; Code Maze</li><li><a href="https://bobbyhadz.com/blog/typescript-extend-globalthis-node">Extend the Node.js Global (globalThis) object in TypeScript</a> &#x2F;&#x2F; Borislav Hadzhiev</li><li><a href="https://www.salto.io/blog/sw-dev/typescript-unit-testing-pitfalls-with-jest-and-how-to-work-around-them">Typescript unit testing pitfalls with Jest</a> &#x2F;&#x2F; Ori Moisis</li><li><a href="https://betterprogramming.pub/using-jest-mocks-typescript-the-right-way-da025da7a284">Using Jest Mocks + TypeScript the Right Way</a> &#x2F;&#x2F; Bryn Bennett</li><li><a href="https://www.sadukie.com/2022/08/11/azure-cosmos-db-for-the-relational-mind/">Azure Cosmos DB for the Relational Mind</a> &#x2F;&#x2F; sadukie</li><li><a href="https://2ality.com/2022/07/nodejs-esm-shell-scripts.html">Creating ESM-based shell scripts for Unix and Windows with Node.js</a> &#x2F;&#x2F; Dr. Axel Rauschmayer</li><li><a href="https://azure.github.io/AppService/2022/08/16/A-Heavy-Lift.html">A Heavy Lift: Bringing Kestrel + YARP to Azure App Services</a> &#x2F;&#x2F; David Fowler, Suwat Bodin, Chris Rosenblatt, Jenny Lawrance, Stephen Kou, Chris Ross, Miha Zupan, Aditya Mandaleeka, Bilal Alam</li><li><a href="https://lassala.net/2020/05/20/code-coverage-is-worthless/">Code Coverage is Worthless!</a> &#x2F;&#x2F; Claudio Lassala</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/C_2BStepVKw">PM on the NuGet team at Microsoft - Claire Novotny - NDC London 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/Zj16hGst-tw">NDC Minnesota Workshop: Identity &amp; Access Control for modern Applications and APIs - Brock Allen</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 03, 2022</em></li><li><a href="https://youtu.be/hPpvlKLeYYA">Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Jul 21, 2022</em></li><li><a href="https://youtu.be/YP72v6t0bO8">Serverless .NET 6 with Azure Functions</a> &#x2F;&#x2F; dotNET &#x2F;&#x2F; <em>Nov 11, 2021</em></li><li><a href="https://youtu.be/CVxwsskDzmU">Moving 17 years of old legacy code and websites into the Cloud - Scott Hanselman at NDC Porto 2022</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/NPtTKngUQRs">Cloud Native Development: a True Paradigm Shift - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Aug 15, 2022</em></li><li><a href="https://youtu.be/vD17OetzGXc">A Better Pub&#x2F;Sub Messenger for .NET Applications</a> &#x2F;&#x2F; James Montemagno &#x2F;&#x2F; <em>Aug 11, 2022</em></li><li><a href="https://youtu.be/vPigsZ-zk1g">github gave me a BEAST for coding 🤯 NO MORE VS Code</a> &#x2F;&#x2F; Alex Ziskind &#x2F;&#x2F; <em>Jun 03, 2022</em></li><li><a href="https://youtu.be/SJeBRW1QQMA">I built a JavaScript framework</a> &#x2F;&#x2F; Fireship &#x2F;&#x2F; <em>Aug 16, 2022</em></li><li><a href="https://youtu.be/NVvIpqmf_Xc">Event-Driven Architecture with React and FastAPI – Full Course</a> &#x2F;&#x2F; freeCodeCamp.org &#x2F;&#x2F; <em>Aug 11, 2022</em></li><li><a href="https://youtu.be/1tD7km5jK70">How to handle secrets in GitHub Actions #shorts</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Aug 16, 2022</em></li><li><a href="https://youtu.be/PSzCtdM20Fc">NextJS to Astro: more control &#x3D; faster sites</a> &#x2F;&#x2F; Jack Herrington &#x2F;&#x2F; <em>Aug 15, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/crxjs/chrome-extension-tools">Chrome Extension Tools</a> &#x2F;&#x2F; Bundling Chrome Extensions can be pretty complex. It doesn’t have to be.</li><li><a href="https://github.com/extend-chrome">Extend Chrome</a> &#x2F;&#x2F; A collection of chrome extension libraries and templates</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Identity/">Identity</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Serverless/">Serverless</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Cloud-Native/">Cloud Native</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Pub-Sub/">Pub/Sub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Messaging/">Messaging</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/React/">React</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Blazor/">Blazor</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Webassembly/">Webassembly</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Chrome-Extensions/">Chrome Extensions</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/08/16/Bits-and-Bytes-2022-6/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-5</title>
@@ -323,11 +382,11 @@
       
       
       
-      <category domain="http://joe.brinkman.me/tags/Blog/">Blog</category>
-      
       <category domain="http://joe.brinkman.me/tags/Serverless/">Serverless</category>
       
       <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Blog/">Blog</category>
       
       
       <comments>http://joe.brinkman.me/2017/10/18/serverless-blogs/#disqus_thread</comments>
