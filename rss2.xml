@@ -15,8 +15,39 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Thu, 18 Aug 2022 12:17:52 GMT</pubDate>
+    <pubDate>Thu, 25 Aug 2022 12:44:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-7</title>
+      <link>http://joe.brinkman.me/2022/08/25/Bits-and-Bytes-2022-7/</link>
+      <guid>http://joe.brinkman.me/2022/08/25/Bits-and-Bytes-2022-7/</guid>
+      <pubDate>Thu, 25 Aug 2022 08:42:40 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey. Edition 2022-7</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.raymondcamden.com/2022/08/17/investigating-indexeddb-wrapper-libraries-part-one">Investigating IndexedDB Wrapper Libraries - Part One</a> &#x2F;&#x2F; Raymond Camden</li><li><a href="https://www.raymondcamden.com/2022/08/18/investigating-indexeddb-wrapper-libraries-part-two">Investigating IndexedDB Wrapper Libraries - Part Two</a> &#x2F;&#x2F; Raymond Camden</li><li><a href="https://www.fortuitas.com/insights/5-ways-to-combat-customer-churn">5 Ways to Combat Customer Churn</a> &#x2F;&#x2F; Johhny Gregory</li><li><a href="https://future.com/remote-startups-hire-top-talent/">Remote Startups Will Win the War for Top Talent</a> &#x2F;&#x2F; Chris Herd</li><li><a href="https://ab.bot/blog/how-to-use-shared-slack-channels-with-customers">How to use shared Slack channels with customers</a> &#x2F;&#x2F; Georgia Rust</li><li><a href="https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/our-take-on-passkeys/">Our Take on Passkeys</a> &#x2F;&#x2F; Vittorio Bertocci</li><li><a href="https://improving.com/thoughts/how-to-build-agile-requirements">How to Build Agile Requirements</a> &#x2F;&#x2F; Laura Dieter</li><li><a href="https://andrewlock.net/replacing-disqus-with-github-discussions-using-giscus/">Replacing Disqus with GitHub discussions using giscus</a> &#x2F;&#x2F; Andrew Lock</li><li><a href="https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin&tpcc=orgsocial_edit">How to Excel at Both Strategy and Execution</a> &#x2F;&#x2F; Paul Leinwand and Joachim Rotering</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/blJ3k1vLxdI">Observability of Software Systems - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/hy_GWqjia3U">Azure Functions: a guide to getting started - Layla Porter - NDC London 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 01, 2022</em></li><li><a href="https://youtu.be/Dr8L7zXxwLI">Build cross-platform native apps with .NET MAUI and Blazor</a> &#x2F;&#x2F; dotNET &#x2F;&#x2F; <em>Nov 10, 2021</em></li><li><a href="https://youtu.be/U4E5k1yMTzg">Writing C# on a IoT Microcontroller with .NET and the Wilderness Labs Meadow Project Lab Board</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Jul 29, 2022</em></li><li><a href="https://youtu.be/Bx17ywo-5nM">It’s Important to be a Full Stack Developer | Scott Hanselman</a> &#x2F;&#x2F; BastaConference &#x2F;&#x2F; <em>Feb 26, 2014</em></li><li><a href="https://youtu.be/Z6Y2adsMnAA">Stop using the HttpClient the wrong way in .NET</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Aug 15, 2022</em></li><li><a href="https://youtu.be/CLKZ7ZgVido">The functional journey of C# - Mads Torgersen - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 17, 2022</em></li><li><a href="https://youtu.be/rzwaaWH0ksk">Your Goals Kinda Suck - LEVEL UP As A Developer</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Aug 17, 2022</em></li><li><a href="https://youtu.be/iWEgpdVSZyg">100 Firebase Tips, Tricks, and Screw-ups</a> &#x2F;&#x2F; Fireship &#x2F;&#x2F; <em>Oct 14, 2019</em></li><li><a href="https://youtu.be/2n3xS89TJMI">NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021</a> &#x2F;&#x2F; Marius Espejo &#x2F;&#x2F; <em>Mar 21, 2021</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/jfversluis/learn-dotnet-maui">.NET MAUI Learning Resources</a> &#x2F;&#x2F; A repository filled with resources available to you to start learning or deepen your knowledge about .NET MAUI</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/08/25/Bits-and-Bytes-2022-7/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-6</title>
@@ -24,7 +55,7 @@
       <guid>http://joe.brinkman.me/2022/08/16/Bits-and-Bytes-2022-6/</guid>
       <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
       
-      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey. Edition 2022-5</description>
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey. Edition 2022-6</description>
       
       
       
