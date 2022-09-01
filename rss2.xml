@@ -15,8 +15,61 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Thu, 25 Aug 2022 12:44:22 GMT</pubDate>
+    <pubDate>Thu, 01 Sep 2022 01:02:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-8</title>
+      <link>http://joe.brinkman.me/2022/08/30/Bits-and-Bytes-2022-8/</link>
+      <guid>http://joe.brinkman.me/2022/08/30/Bits-and-Bytes-2022-8/</guid>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/from-software-developer-to-ceo-red-hats-matt-hicks-on-his-journey-to-the-top/">From software developer to CEO: Red Hat’s Matt Hicks on his journey to the top</a> &#x2F;&#x2F; Stephanie Condon</li><li><a href="https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kmehta/2022/08/23/older-entrepreneurs-outperform-younger-foundersshattering-ageism/amp/">Older Entrepreneurs Outperform Younger Founders—Shattering Ageism</a> &#x2F;&#x2F; Kumar Mehta</li><li><a href="https://www.linkedin.com/posts/eboemanns_learning-habits-selfimprovement-activity-6969340424075296769-O-hO">1 of 7. Habits</a> &#x2F;&#x2F; Erik Boemanns</li><li><a href="https://winsmarts.com/passkeys-and-enterprise-authentication-750ee6332c25">Passkeys and Enterprise Authentication</a> &#x2F;&#x2F; Sahil Malik</li><li><a href="https://dev.to/mperon/axios-error-handling-like-a-boss-333d">Axios &amp; Error handling like a boss</a> &#x2F;&#x2F; Peron</li><li><a href="https://dev.to/aws/get-started-live-streaming-in-the-cloud-with-amazon-ivs-2pdg">Get Started Live Streaming in the Cloud with Amazon IVS</a> &#x2F;&#x2F; Todd Sharp</li><li><a href="https://azure.github.io/AppService/2022/08/16/A-Heavy-Lift.html">A Heavy Lift: Bringing Kestrel + YARP to Azure App Services</a> &#x2F;&#x2F; David Fowler, Suwat Bodin, Chris Rosenblatt, Jenny Lawrance, Stephen Kou, Chris Ross, Miha Zupan, Aditya Mandaleeka, Bilal Alam</li><li><a href="https://improving.com/thoughts/agile-leadership-starts-with-you">Agile Leadership Starts With You</a> &#x2F;&#x2F; Emily Stickle</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/ZKVXl2640ps">Entity Framework (Core) Unchained: Getting the Best Performance from Your ORM - Dan Mallott</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/HURvJDldVGA">Why Does Scrum Make Programmers HATE Coding?</a> &#x2F;&#x2F; Healthy Software Developer &#x2F;&#x2F; <em>Jul 01, 2022</em></li><li><a href="https://youtu.be/R2rE79xX8Z4">Is Blazor the next Silverlight?</a> &#x2F;&#x2F; Coding After Work &#x2F;&#x2F; <em>Jul 27, 2022</em></li><li><a href="https://youtu.be/sdVI2OYWsGE">Better Power Apps by Design - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Jun 20, 2022</em></li><li><a href="https://youtu.be/plk0xtg7if4">50 Tim Unscripted - connection</a> &#x2F;&#x2F; Tim Dickey &#x2F;&#x2F; <em>May 26, 2022</em></li><li><a href="https://youtu.be/qrh97hToWpM">Getting started with GraphQL in .NET - Michael Staib - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 05, 2022</em></li><li><a href="https://youtu.be/5FJ4fI3H3vk">How to upgrade to Firebase v9 - Rollup for Chrome Extension Quickstart</a> &#x2F;&#x2F; Rusty Zone &#x2F;&#x2F; <em>Oct 25, 2021</em></li><li><a href="https://youtu.be/0RpOzhjhTzA">Firebase Login System with Chrome Extensions(MV2) | OAuth&#x2F;OAuth2&#x2F;OpenID Connect</a> &#x2F;&#x2F; An Object Is A &#x2F;&#x2F; <em>Sep 05, 2020</em></li><li><a href="https://youtu.be/YI34UIMgkxs">Keynote NDC Sydney 2016: If I knew then what I know now  - Scott Hanselman</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 23, 2016</em></li><li><a href="https://youtu.be/cC6HFd1zcbo">Did I Pick The Right Database???</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Aug 15, 2022</em></li><li><a href="https://youtu.be/Zzr020Cg-ZY">Breaking Changes “Optimizing the API Lifecycle with Velocity with Dr. Ralf Huuck</a> &#x2F;&#x2F; Postman &#x2F;&#x2F; <em>Aug 28, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/cdmoro/bootstrap-vue-3">BootstrapVue 3</a> &#x2F;&#x2F; Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript</li><li><a href="https://github.com/quicktype/quicktype">Quicktype</a> &#x2F;&#x2F; Generate types and converters from JSON, Schema, and GraphQL</li><li><a href="https://github.com/toeverything/AFFiNE">Affine</a> &#x2F;&#x2F; There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Blazor/">Blazor</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Axios/">Axios</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Entity-Framework-Core/">Entity Framework Core</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Scrum/">Scrum</category>
+      
+      <category domain="http://joe.brinkman.me/tags/PowerApps/">PowerApps</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Firebase/">Firebase</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Bootstrap/">Bootstrap</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Vue/">Vue</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Typescript/">Typescript</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/08/30/Bits-and-Bytes-2022-8/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-7</title>
