@@ -15,8 +15,55 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Thu, 01 Sep 2022 01:02:51 GMT</pubDate>
+    <pubDate>Tue, 20 Sep 2022 12:36:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-9</title>
+      <link>http://joe.brinkman.me/2022/09/20/Bits-and-Bytes-2022-9/</link>
+      <guid>http://joe.brinkman.me/2022/09/20/Bits-and-Bytes-2022-9/</guid>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://cloudcannon.com/blog/what-is-a-static-site-generator/">What is a Static Site Generator?</a> &#x2F;&#x2F; David Large</li><li><a href="https://jdmeier.com/unicorn-of-microsoft/">The Unicorn of Microsoft</a> &#x2F;&#x2F; JD Meier</li><li><a href="https://improving.com/thoughts/multi-layered-testing-overview"> Multi-Layered Testing Overview</a> &#x2F;&#x2F; Zach Cannon</li><li><a href="https://visualstudiomagazine.com/articles/2022/08/19/electron-bugs.aspx?m=1">Electron-Based App Vulnerabilities Hit VS Code, Microsoft Teams</a> &#x2F;&#x2F; David Ramel</li><li><a href="https://bobmoesta.medium.com/want-your-product-to-succeed-then-you-need-to-understand-the-struggling-moment-47eed7a68002">Want Your Product to Succeed? Then You Need to Understand the “Struggling Moment”</a> &#x2F;&#x2F; Bob Moesta</li><li><a href="https://techcommunity.microsoft.com/t5/apps-on-azure-blog/three-reasons-why-you-should-prioritize-migrating-to-app-service/ba-p/3596628">Three reasons why you should prioritize migrating to App Service Environment v3 for your business</a> &#x2F;&#x2F; Mayunk Jain</li><li><a href="https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/">Announcing built-in container support for the .NET SDK</a> &#x2F;&#x2F; Chet Husk</li><li><a href="https://ardalis.com/commands-events-versions-and-owners/?utm_sq=h1x63j2g6q">Commands, Events, Versions, and Owners</a> &#x2F;&#x2F; Steve Smith</li><li><a href="https://amplication.com/blog/7-key-differences-between-graphql-and-rest-apis-ckza1akvu042701s6jzrjovs5">7 Key Differences Between GraphQL and REST APIs</a> &#x2F;&#x2F; Yuval Hazaz</li><li><a href="https://improving.com/thoughts/effective-agile-coach-from-developer-point-of-view">Vital Skills of an Effective Agile Coach (From the Developers Point of View)</a> &#x2F;&#x2F; Daniel Scheufler</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/5CmilyPrCeE">Hacking on an AdaFruit M4 Matrix Display with CircuitPython to show my Blood Sugar using Nightscout</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/ZKVXl2640ps">Entity Framework (Core) Unchained: Getting the Best Performance from Your ORM - Dan Mallott</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Jul 25, 2022</em></li><li><a href="https://youtu.be/dIu5EisoB_s">The fastest way to cast objects in C# is not so obvious</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Aug 29, 2022</em></li><li><a href="https://youtu.be/0ial6pfgV9g">Hacking C#: Development for the Truly Lazy - Simon Painter - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 05, 2022</em></li><li><a href="https://youtu.be/_yCphxEVmFw">Tutorial: Getting Started with OmniFocus 3 in 12 Minutes (my workflow)</a> &#x2F;&#x2F; Peter Akkies &#x2F;&#x2F; <em>Jun 11, 2019</em></li><li><a href="https://youtu.be/0ial6pfgV9g">Hacking C#: Development for the Truly Lazy - Simon Painter - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 05, 2022</em></li><li><a href="https://youtu.be/bpQcmZHZlDA">Feel Overwhelmed? Try This Approach</a> &#x2F;&#x2F; Peter Akkies &#x2F;&#x2F; <em>Oct 02, 2021</em></li><li><a href="https://youtu.be/0oEsMwSxBsk">Containers? So What? Docker 101 Explained - Computer Stuff They Didn’t Teach You #8</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Aug 23, 2020</em></li><li><a href="https://youtu.be/V4zqk4-LL1M">Automate yourself out of a job with Roslyn - Mark Rendle - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 18, 2022</em></li><li><a href="https://youtu.be/Dr8L7zXxwLI">Build cross-platform native apps with .NET MAUI and Blazor</a> &#x2F;&#x2F; dotNET &#x2F;&#x2F; <em>Nov 10, 2021</em></li><li><a href="https://youtu.be/QXxNlpjnulI">Blazor in 100 Seconds</a> &#x2F;&#x2F; Fireship &#x2F;&#x2F; <em>Sep 01, 2022</em></li><li><a href="https://youtu.be/PSzCtdM20Fc">NextJS to Astro: more control &#x3D; faster sites</a> &#x2F;&#x2F; Jack Herrington &#x2F;&#x2F; <em>Aug 15, 2022</em></li><li><a href="https://youtu.be/o7iQAF2EvUU">Create template layouts for your HTML with Astro SSG</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Dec 14, 2021</em></li><li><a href="https://youtu.be/WbVBl6GIkw4">NEW OBS 28 UPDATE! - Everything You Need To Know</a> &#x2F;&#x2F; Senpai Gaming &#x2F;&#x2F; <em>Sep 03, 2022</em></li><li><a href="https://youtu.be/rAjd8z-Fx5A">Is Full Stack Even Real?</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Aug 26, 2022</em></li><li><a href="https://youtu.be/416MT-VmJdI">CSS Transform Is Dead! Use This Instead</a> &#x2F;&#x2F; Web Dev Simplified &#x2F;&#x2F; <em>Sep 03, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/withastro/astro">Astro</a> &#x2F;&#x2F; Build faster websites with Astro’s next-gen island architecture</li><li><a href="https://github.com/natemoo-re/astro-icon">Astro Icon</a> &#x2F;&#x2F; Inline and sprite-based SVGs in Astro made easy!</li><li><a href="https://github.com/iconify/iconify">Iconify</a> &#x2F;&#x2F; Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</li><li><a href="https://github.com/11ty/eleventy/">11ty</a> &#x2F;&#x2F; A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
+      
+      <category domain="http://joe.brinkman.me/tags/C/">C#</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Maui/">Maui</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Static-Site-Generator/">Static Site Generator</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Agile/">Agile</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Entity-Framework/">Entity Framework</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/09/20/Bits-and-Bytes-2022-9/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-8</title>
