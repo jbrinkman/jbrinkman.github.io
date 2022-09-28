@@ -15,8 +15,59 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Tue, 20 Sep 2022 12:36:24 GMT</pubDate>
+    <pubDate>Wed, 28 Sep 2022 23:38:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-10</title>
+      <link>http://joe.brinkman.me/2022/09/28/Bits-and-Bytes-2022-10/</link>
+      <guid>http://joe.brinkman.me/2022/09/28/Bits-and-Bytes-2022-10/</guid>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.raymondcamden.com/2022/09/28/converting-markdown-code-blocks-to-gists">Converting Markdown Code Blocks to Gists</a> &#x2F;&#x2F; Raymond Camden</li><li><a href="https://improving.com/thoughts/finding-the-problem-to-gain-a-solution">Finding the Problem to Gain a Solution</a> &#x2F;&#x2F; Barbara Schultz</li><li><a href="https://ardalis.com/architecture-ebook/?utm_sq=h1vrol92uf">Architecting Modern Web Applications with Asp.net Core and Microsoft Azure</a> &#x2F;&#x2F; Steve Smith</li><li><a href="https://lassala.net/2022/09/06/improving-my-reading-system/">Improving my Reading System and Leveraging Obsidian</a> &#x2F;&#x2F; Claudio Lassala</li><li><a href="https://visualstudiomagazine.com/articles/2022/09/01/cli-survey.aspx?m=1">Windows Devs Prefer PowerShell as CLI</a> &#x2F;&#x2F; David Ramel</li><li><a href="https://amplication.com/blog/7-key-differences-between-graphql-and-rest-apis-ckza1akvu042701s6jzrjovs5">7 Key Differences Between GraphQL and REST APIs</a> &#x2F;&#x2F; Yuval Hazaz</li><li><a href="https://community.penpot.app/t/penpot-our-time-has-come/1563">Penpot: Our Time Has Come</a> &#x2F;&#x2F; diacritica</li></ul><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/V4zqk4-LL1M">Automate yourself out of a job with Roslyn - Mark Rendle - NDC Copenhagen 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Aug 18, 2022</em></li><li><a href="https://youtu.be/4Ohg0b19eng">Event driven applications in Azure - Laurent Bugnion - NDC Oslo 2021</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Feb 28, 2022</em></li><li><a href="https://youtu.be/o58kSpPMuuI">Let’s Create a Splashy Splash Page with Astro 💦</a> &#x2F;&#x2F; Little Sticks &#x2F;&#x2F; <em>Sep 06, 2022</em></li><li><a href="https://youtu.be/OGJvhpoE8b4">I never thought this would be possible with CSS</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/McC4QkCvbaY">How you can simplify your CSS with :is()</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Mar 02, 2021</em></li><li><a href="https://youtu.be/SyOnB1qvPn0">My AMAZING Terminal Setup - Hyper, Oh My Zsh, Fig.io, and More!</a> &#x2F;&#x2F; James Q Quick &#x2F;&#x2F; <em>Sep 20, 2022</em></li><li><a href="https://youtu.be/W-hWUAewg_0">Intro to Design Thinking: Empathize &amp; Define - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Sep 19, 2022</em></li><li><a href="https://youtu.be/CvwbinzWSgs">6 New’ish HTML Tags You Can Use Right Now</a> &#x2F;&#x2F; Laracasts &#x2F;&#x2F; <em>Sep 06, 2022</em></li><li><a href="https://youtu.be/RO40Opyizeg">Styling modals just got easier!</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 27, 2022</em></li><li><a href="https://youtu.be/MoV4nPNHO1M">GitHub Actions - CI:CD and more - Damian Brady - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Sep 19, 2022</em></li><li><a href="https://youtu.be/TDCwq2fy0NY">Introduction to GitHub Actions with Brent Laster</a> &#x2F;&#x2F; All Things Open &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/MYNIXz9iViU">Checkout all the cool new things you can do with your GitHub Projects powered by GitHub Issues</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Sep 01, 2022</em></li><li><a href="https://youtu.be/iX0HbrfRyvc">learning Docker is HARD!! (this makes it easy)</a> &#x2F;&#x2F; NetworkChuck &#x2F;&#x2F; <em>Sep 23, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://fig.io/">Fig.io</a> &#x2F;&#x2F; The next-generation command line.</li><li><a href="https://github.com/penpot/penpot">Penpot</a> &#x2F;&#x2F; Penpot - The Open-Source design &amp; prototyping platform</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Astro/">Astro</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Markdown/">Markdown</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Obsidian/">Obsidian</category>
+      
+      <category domain="http://joe.brinkman.me/tags/PowerShell/">PowerShell</category>
+      
+      <category domain="http://joe.brinkman.me/tags/CSS/">CSS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Design-Thinking/">Design Thinking</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/09/28/Bits-and-Bytes-2022-10/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-9</title>
@@ -40,15 +91,15 @@
       
       <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
       
-      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
-      
       <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
       
       <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
-      
-      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
       
       <category domain="http://joe.brinkman.me/tags/C/">C#</category>
       
@@ -89,6 +140,8 @@
       
       <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
       
+      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
+      
       <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
@@ -102,8 +155,6 @@
       <category domain="http://joe.brinkman.me/tags/Scrum/">Scrum</category>
       
       <category domain="http://joe.brinkman.me/tags/PowerApps/">PowerApps</category>
-      
-      <category domain="http://joe.brinkman.me/tags/GraphQL/">GraphQL</category>
       
       <category domain="http://joe.brinkman.me/tags/Firebase/">Firebase</category>
       
@@ -173,15 +224,17 @@
       
       <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
       
-      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
-      
       <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
       
-      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
+      <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
       
       <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
       
       <category domain="http://joe.brinkman.me/tags/Identity/">Identity</category>
       
@@ -192,8 +245,6 @@
       <category domain="http://joe.brinkman.me/tags/Pub-Sub/">Pub/Sub</category>
       
       <category domain="http://joe.brinkman.me/tags/Messaging/">Messaging</category>
-      
-      <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
       
       <category domain="http://joe.brinkman.me/tags/React/">React</category>
       
@@ -232,17 +283,17 @@
       
       <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
       
-      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
-      
       <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
-      
-      <category domain="http://joe.brinkman.me/tags/WebAssembly/">WebAssembly</category>
       
       <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
+      
+      <category domain="http://joe.brinkman.me/tags/WebAssembly/">WebAssembly</category>
       
       
       <comments>http://joe.brinkman.me/2022/08/09/Bits-and-Bytes-2022-5/#disqus_thread</comments>
@@ -304,17 +355,17 @@
       
       <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
       
-      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
-      
       <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
-      
-      <category domain="http://joe.brinkman.me/tags/WebAssembly/">WebAssembly</category>
       
       <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Career/">Career</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Automation/">Automation</category>
+      
+      <category domain="http://joe.brinkman.me/tags/WebAssembly/">WebAssembly</category>
       
       
       <comments>http://joe.brinkman.me/2022/08/02/Bits-and-Bytes-2022-4/#disqus_thread</comments>
@@ -345,13 +396,15 @@
       
       <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
       
+      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
+      
       <category domain="http://joe.brinkman.me/tags/LINQ/">LINQ</category>
       
       <category domain="http://joe.brinkman.me/tags/CQRS/">CQRS</category>
       
       <category domain="http://joe.brinkman.me/tags/DevOps/">DevOps</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
       
       <category domain="http://joe.brinkman.me/tags/Terraform/">Terraform</category>
       
@@ -366,8 +419,6 @@
       <category domain="http://joe.brinkman.me/tags/Kubernetes/">Kubernetes</category>
       
       <category domain="http://joe.brinkman.me/tags/Auth/">Auth</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Azure/">Azure</category>
       
       
       <comments>http://joe.brinkman.me/2022/07/26/Bits-and-Bytes-2022-3/#disqus_thread</comments>
@@ -398,6 +449,8 @@
       
       <category domain="http://joe.brinkman.me/tags/TypeScript/">TypeScript</category>
       
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
+      
       <category domain="http://joe.brinkman.me/tags/LINQ/">LINQ</category>
       
       <category domain="http://joe.brinkman.me/tags/CQRS/">CQRS</category>
@@ -405,8 +458,6 @@
       <category domain="http://joe.brinkman.me/tags/Clean-Architecture/">Clean Architecture</category>
       
       <category domain="http://joe.brinkman.me/tags/DevOps/">DevOps</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
       
       <category domain="http://joe.brinkman.me/tags/Terraform/">Terraform</category>
       
@@ -513,9 +564,9 @@
       
       
       
-      <category domain="http://joe.brinkman.me/tags/Serverless/">Serverless</category>
-      
       <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Serverless/">Serverless</category>
       
       <category domain="http://joe.brinkman.me/tags/Blog/">Blog</category>
       
