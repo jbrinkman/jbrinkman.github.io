@@ -15,8 +15,39 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Wed, 28 Sep 2022 23:38:49 GMT</pubDate>
+    <pubDate>Wed, 19 Oct 2022 16:10:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Bits and Bytes - 2022-11</title>
+      <link>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/</link>
+      <guid>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/</guid>
+      <pubDate>Wed, 19 Oct 2022 16:10:28 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.christianstrunk.com/blog/how-to-get-started-with-user-story-mapping">How to get started with user story mapping</a> &#x2F;&#x2F; Christian Strunk</li><li><a href="https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership">Ego Is the Enemy of Good Leadership</a> &#x2F;&#x2F; Rasmus Hougard and Jacqueline Carter</li><li><a href="https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/">Can GitHub’s Copilot AI put the fun back into being a developer?</a> &#x2F;&#x2F; Liam Tung</li><li><a href="https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component">A PDF Embed Web Component</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text">Web Component Experiment - Manipulating Inner Text</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://improving.com/thoughts/empathy-the-secret-sauce-in-design">Empathy: The Secret Sauce in Good Design</a> &#x2F;&#x2F; Tony Brown</li><li><a href="https://ardalis.com/if-no-one-says-no-your-rate-is-too-low/">If No One Says No, Your Rate is Too Low</a> &#x2F;&#x2F; Steve Smith (Ardalis)</li></ul><p> <a href="https://www.eventbrite.com/e/399161712427/?discount=CL-VIP-IMPROVING"> <img src="/2022/10/19/Bits-and-Bytes-2022-11/codelaunch_dfw.png" alt="CodeLaunch DFW - Register for Free!"> </a></p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/8fi7uSYlOdc">Containers From Scratch • Liz Rice • GOTO 2018</a> &#x2F;&#x2F; GOTO Conferences &#x2F;&#x2F; <em>Jun 29, 2018</em></li><li><a href="https://youtu.be/8TyoihVGErI">A couple of cool things you can do with CSS position sticky</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Apr 03, 2019</em></li><li><a href="https://youtu.be/T8EYosX4NOo">Introduction to the Intersection Observer JavaScript API</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Jun 12, 2019</em></li><li><a href="https://youtu.be/PfuITCiIDwQ">Work Your Network: Leveraging the Strength Behind Professional Relationships (Amy Fair)</a> &#x2F;&#x2F; Dennis Shiao &#x2F;&#x2F; <em>Dec 10, 2020</em></li><li><a href="https://youtu.be/CB3wsw0UCVc">3 awesome tools for a better front-end dev experience</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Nov 30, 2021</em></li><li><a href="https://youtu.be/VONSx_ftkz8">The QUIC Protocol, HTTP3, and How HTTP Has Evolved</a> &#x2F;&#x2F; TheDataDaddi &#x2F;&#x2F; <em>Feb 28, 2022</em></li><li><a href="https://youtu.be/hyJ2oPyaHkY">The right way to Docker Compose 🐳 🐙</a> &#x2F;&#x2F; Alex Ziskind &#x2F;&#x2F; <em>Sep 12, 2022</em></li><li><a href="https://youtu.be/7MWmIhfvnes">5 Things Successful Developers Do (That You Don’t)</a> &#x2F;&#x2F; James Q Quick &#x2F;&#x2F; <em>Sep 13, 2022</em></li><li><a href="https://youtu.be/TBk1n1O6Kmc">Catch SQL Injection Vulnerabilities</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Sep 14, 2022</em></li><li><a href="https://youtu.be/Dzn5BjAcCB0">Type Aliases in Typescript</a> &#x2F;&#x2F; Hitesh Choudhary &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/pj7D0tSNmEg">Is Figma Dead? - Penpot, the Open Source Figma Alternative</a> &#x2F;&#x2F; LevelUpTuts &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/reL-ke2J03o">Keynote - The Next Decade of Software Development - Richard Campbell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Sep 19, 2022</em></li><li><a href="https://youtu.be/3_-Je5XpbqY">Container Queries are going to change how we make layouts</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 20, 2022</em></li><li><a href="https://youtu.be/ZSaAHb5dRwQ">New CSS Units! Query units explained</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 22, 2022</em></li><li><a href="https://youtu.be/5DCxTuFASzo">“Cache Rules Everything Around Me” By Matt Groves (Couchbase)</a> &#x2F;&#x2F; Sam Nasr &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/GX1lJ1dSJVY">Mike Benkovich on Infrastructure as Code [TECHNOLOGYANDFRIENDS 722]</a> &#x2F;&#x2F; Technology and Friends &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/99eLybGBqgk">CEO or Creator or Engineer??? Ex-Twitch YC Founder Reflects on a Harris Heller video…</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Sep 24, 2022</em></li><li><a href="https://youtu.be/UNMF5AS4SLg">“Expert Software Developers’ Approach to Error” by Marian Petre (Strange Loop 2022)</a> &#x2F;&#x2F; Strange Loop Conference &#x2F;&#x2F; <em>Oct 03, 2022</em></li><li><a href="https://youtu.be/I5kx__o4S3k">Unleash the Power of Visual Studio Code - Aaron Powell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/jmmz1cInNow">Adding a BETTER way to loop in C#</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/ip51Y5v3WLk">JavaScript Garbage Collection is This SLOW????</a> &#x2F;&#x2F; ThePrimeagen &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/fD6DqryXA0w">Targeting Linux with .NET 6&#x2F;7 and WSL (Windows Subsystem for Linux) on Windows 11</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/WnUi4UYhdPs">Deconstructing the DevOps Hype - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Oct 14, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/lucide-icons/lucide">Lucide Icons</a> &#x2F;&#x2F; Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</li><li><a href="https://github.com/dragonflydb/dragonfly">Dragonfly</a> &#x2F;&#x2F; A modern replacement for Redis and Memcached</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Bits and Bytes - 2022-10</title>
