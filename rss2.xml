@@ -15,20 +15,81 @@
     <atom:link href="http://joe.brinkman.me/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>entrepreneur, technologist, developer, author, speaker, accidental geek</description>
-    <pubDate>Wed, 19 Oct 2022 16:10:28 GMT</pubDate>
+    <pubDate>Wed, 26 Oct 2022 03:23:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Bits and Bytes - 2022-11</title>
-      <link>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/</link>
-      <guid>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/</guid>
-      <pubDate>Wed, 19 Oct 2022 16:10:28 GMT</pubDate>
+      <title>Bits and Bytes - 2022-12</title>
+      <link>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-12/</link>
+      <guid>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-12/</guid>
+      <pubDate>Wed, 26 Oct 2022 03:23:48 GMT</pubDate>
       
       <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
       
       
       
-      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.christianstrunk.com/blog/how-to-get-started-with-user-story-mapping">How to get started with user story mapping</a> &#x2F;&#x2F; Christian Strunk</li><li><a href="https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership">Ego Is the Enemy of Good Leadership</a> &#x2F;&#x2F; Rasmus Hougard and Jacqueline Carter</li><li><a href="https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/">Can GitHub’s Copilot AI put the fun back into being a developer?</a> &#x2F;&#x2F; Liam Tung</li><li><a href="https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component">A PDF Embed Web Component</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text">Web Component Experiment - Manipulating Inner Text</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://improving.com/thoughts/empathy-the-secret-sauce-in-design">Empathy: The Secret Sauce in Good Design</a> &#x2F;&#x2F; Tony Brown</li><li><a href="https://ardalis.com/if-no-one-says-no-your-rate-is-too-low/">If No One Says No, Your Rate is Too Low</a> &#x2F;&#x2F; Steve Smith (Ardalis)</li></ul><p> <a href="https://www.eventbrite.com/e/399161712427/?discount=CL-VIP-IMPROVING"> <img src="/2022/10/19/Bits-and-Bytes-2022-11/codelaunch_dfw.png" alt="CodeLaunch DFW - Register for Free!"> </a></p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/8fi7uSYlOdc">Containers From Scratch • Liz Rice • GOTO 2018</a> &#x2F;&#x2F; GOTO Conferences &#x2F;&#x2F; <em>Jun 29, 2018</em></li><li><a href="https://youtu.be/8TyoihVGErI">A couple of cool things you can do with CSS position sticky</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Apr 03, 2019</em></li><li><a href="https://youtu.be/T8EYosX4NOo">Introduction to the Intersection Observer JavaScript API</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Jun 12, 2019</em></li><li><a href="https://youtu.be/PfuITCiIDwQ">Work Your Network: Leveraging the Strength Behind Professional Relationships (Amy Fair)</a> &#x2F;&#x2F; Dennis Shiao &#x2F;&#x2F; <em>Dec 10, 2020</em></li><li><a href="https://youtu.be/CB3wsw0UCVc">3 awesome tools for a better front-end dev experience</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Nov 30, 2021</em></li><li><a href="https://youtu.be/VONSx_ftkz8">The QUIC Protocol, HTTP3, and How HTTP Has Evolved</a> &#x2F;&#x2F; TheDataDaddi &#x2F;&#x2F; <em>Feb 28, 2022</em></li><li><a href="https://youtu.be/hyJ2oPyaHkY">The right way to Docker Compose 🐳 🐙</a> &#x2F;&#x2F; Alex Ziskind &#x2F;&#x2F; <em>Sep 12, 2022</em></li><li><a href="https://youtu.be/7MWmIhfvnes">5 Things Successful Developers Do (That You Don’t)</a> &#x2F;&#x2F; James Q Quick &#x2F;&#x2F; <em>Sep 13, 2022</em></li><li><a href="https://youtu.be/TBk1n1O6Kmc">Catch SQL Injection Vulnerabilities</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Sep 14, 2022</em></li><li><a href="https://youtu.be/Dzn5BjAcCB0">Type Aliases in Typescript</a> &#x2F;&#x2F; Hitesh Choudhary &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/pj7D0tSNmEg">Is Figma Dead? - Penpot, the Open Source Figma Alternative</a> &#x2F;&#x2F; LevelUpTuts &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/reL-ke2J03o">Keynote - The Next Decade of Software Development - Richard Campbell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Sep 19, 2022</em></li><li><a href="https://youtu.be/3_-Je5XpbqY">Container Queries are going to change how we make layouts</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 20, 2022</em></li><li><a href="https://youtu.be/ZSaAHb5dRwQ">New CSS Units! Query units explained</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 22, 2022</em></li><li><a href="https://youtu.be/5DCxTuFASzo">“Cache Rules Everything Around Me” By Matt Groves (Couchbase)</a> &#x2F;&#x2F; Sam Nasr &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/GX1lJ1dSJVY">Mike Benkovich on Infrastructure as Code [TECHNOLOGYANDFRIENDS 722]</a> &#x2F;&#x2F; Technology and Friends &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/99eLybGBqgk">CEO or Creator or Engineer??? Ex-Twitch YC Founder Reflects on a Harris Heller video…</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Sep 24, 2022</em></li><li><a href="https://youtu.be/UNMF5AS4SLg">“Expert Software Developers’ Approach to Error” by Marian Petre (Strange Loop 2022)</a> &#x2F;&#x2F; Strange Loop Conference &#x2F;&#x2F; <em>Oct 03, 2022</em></li><li><a href="https://youtu.be/I5kx__o4S3k">Unleash the Power of Visual Studio Code - Aaron Powell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/jmmz1cInNow">Adding a BETTER way to loop in C#</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/ip51Y5v3WLk">JavaScript Garbage Collection is This SLOW????</a> &#x2F;&#x2F; ThePrimeagen &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/fD6DqryXA0w">Targeting Linux with .NET 6&#x2F;7 and WSL (Windows Subsystem for Linux) on Windows 11</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/WnUi4UYhdPs">Deconstructing the DevOps Hype - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Oct 14, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/lucide-icons/lucide">Lucide Icons</a> &#x2F;&#x2F; Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</li><li><a href="https://github.com/dragonflydb/dragonfly">Dragonfly</a> &#x2F;&#x2F; A modern replacement for Redis and Memcached</li></ul>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.architect.io/blog/2022-10-25/5-tips-that-will-supercharge-your-node-js-microservices-development/">5 tips that will supercharge your Node.js microservices development</a> &#x2F;&#x2F; Lee Brandt</li><li><a href="https://www.telerik.com/blogs/tailwind-not-tailwind-question">To Tailwind or Not To Tailwind—That is the Question</a> &#x2F;&#x2F; Alyssa Nicoll</li><li><a href="https://ardalis.com/github-actions-from-cli/?utm_sq=h3hgsi6k7q">GitHub Actions from CLI</a> &#x2F;&#x2F; Steve Smith</li><li><a href="https://improving.com/thoughts/how-improvingu-helps-improve-you">How ImprovingU Helps Improve You</a> &#x2F;&#x2F; Zack Kelly</li><li><a href="https://www.smashingmagazine.com/2022/10/devtools-updates-halloween-edition/">What’s New In DevTools: Halloween Edition</a> &#x2F;&#x2F; Patrick Brosset</li></ul><p> <a href="https://www.eventbrite.com/e/399161712427/?discount=CL-VIP-IMPROVING"> <img src="/2022/10/26/Bits-and-Bytes-2022-12/codelaunch_dfw.png" alt="CodeLaunch DFW - Register for Free!"> </a></p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/NmmpXcMxCjY">Are events in C# even relevant anymore?</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Mar 17, 2022</em></li><li><a href="https://youtu.be/lI_sRZt-llI">Refactor First - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Aug 22, 2022</em></li><li><a href="https://youtu.be/CN2LdEkwykw">Software development and us, the way we have evolved together - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Sep 13, 2022</em></li><li><a href="https://youtu.be/xm8eQenL7wA">What is the NEW “file” keyword of C# 11?</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Sep 26, 2022</em></li><li><a href="https://youtu.be/N7wzU3TlmcE">Thinking about running Docker on M2?</a> &#x2F;&#x2F; Alex Ziskind &#x2F;&#x2F; <em>Oct 05, 2022</em></li><li><a href="https://youtu.be/flbz_5aMikw">Why use a monorepo?</a> &#x2F;&#x2F; Vercel &#x2F;&#x2F; <em>Oct 05, 2022</em></li><li><a href="https://youtu.be/3QEoJRjxnxQ">Keynote: Why web tech is like this - Steve Sanderson</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 13, 2022</em></li><li><a href="https://youtu.be/bbnkAV12Tig">Top 10 Javascript One Liners YOU MUST KNOW!</a> &#x2F;&#x2F; developedbyed &#x2F;&#x2F; <em>Oct 15, 2022</em></li><li><a href="https://youtu.be/aFN3rvHlDec">The Oneness of Product in Scrum - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/mQi2a7sYqgM">State of CSS survey - What do I NOT know about CSS?</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/9uKve5hq9kY">Bicep: Deploy to Azure cloud without it being a pain in the Arm - Paul Glavich - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/dgyk7zkttHI">Coding in the Cloud with GitHub Codespaces - Damian Brady - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/X3jw1JVNdPE">how to never write bug</a> &#x2F;&#x2F; Fireship &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/EJXUNmb8nxM">How Git Can Power an Exciting Future for Content Management - Git Merge 2022</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/i6-z1kFPl0U">Learn How Git’s Code Works - Git Merge 2022</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/1fItx3o4k_Q">React Hooks: Class Components vs. Functional Components &amp; Opinions on When &amp; Where to use them</a> &#x2F;&#x2F; Andrew Connell - Voitanos &#x2F;&#x2F; <em>Oct 18, 2022</em></li><li><a href="https://youtu.be/czC2DcTHYxY">GitHub like a Boss - Michelle Mannering - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 19, 2022</em></li><li><a href="https://youtu.be/I2_-czgGAls">Chasing the holy grail  Reusable Web Components and Design Tokens - Duncan Hunter</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 19, 2022</em></li><li><a href="https://youtu.be/x79xykhpBNo">Demystifying Azure AD, JWTs &amp; OIDC - Graeme Foster - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 19, 2022</em></li><li><a href="https://youtu.be/eME0jNxgv-I">NEW Firebase Features Just Dropped</a> &#x2F;&#x2F; Beyond Fireship &#x2F;&#x2F; <em>Oct 19, 2022</em></li><li><a href="https://youtu.be/R1fCs2a2xXw">JWT! What is it good for? Absolutely everything! - Ben Dechrai - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 20, 2022</em></li><li><a href="https://youtu.be/H5sPGruv2yc">You Don’t Need Kubernetes</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Oct 20, 2022</em></li><li><a href="https://youtu.be/NOLn0QwGlEE">How Regex in C# can kill your app</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Oct 20, 2022</em></li><li><a href="https://youtu.be/PAlEp2AmSl4">Integrate Jenkins in Postman</a> &#x2F;&#x2F; Postman &#x2F;&#x2F; <em>Oct 20, 2022</em></li><li><a href="https://youtu.be/lg5wznn3IBE">Backyard Squirrelympics 3.0- The Summer Games</a> &#x2F;&#x2F; Mark Rober &#x2F;&#x2F; <em>Oct 23, 2022</em></li><li><a href="https://youtu.be/S3N6tbvvRJI">Man vs the Machine: Intro to Machine Learning and AutoML - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Oct 24, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/openfga/openfga">OpenFGA</a> &#x2F;&#x2F; A high performance and flexible authorization&#x2F;permission engine built for developers and inspired by Google Zanzibar</li><li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of the Command Line</a> &#x2F;&#x2F; Master the command line, in one page</li><li><a href="https://github.com/PowerShell/PowerShell">PowerShell</a> &#x2F;&#x2F; PowerShell for every system!</li><li><a href="https://github.com/tenable/terrascan">Terrascan</a> &#x2F;&#x2F; Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.</li><li><a href="https://github.com/ReactiveX/RxSwift">RxSwift</a> &#x2F;&#x2F; Reactive Programming in Swift</li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://joe.brinkman.me/tags/Link-Blog/">Link Blog</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Development/">Development</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Net/">.Net</category>
+      
+      <category domain="http://joe.brinkman.me/tags/NodeJS/">NodeJS</category>
+      
+      <category domain="http://joe.brinkman.me/tags/GitHub/">GitHub</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Culture/">Culture</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Tailwind/">Tailwind</category>
+      
+      <category domain="http://joe.brinkman.me/tags/DevTools/">DevTools</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Improving-Talks/">Improving Talks</category>
+      
+      <category domain="http://joe.brinkman.me/tags/C/">C#</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Javascript/">Javascript</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Scrum/">Scrum</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Git/">Git</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Web-Components/">Web Components</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Firebase/">Firebase</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Kubernetes/">Kubernetes</category>
+      
+      <category domain="http://joe.brinkman.me/tags/AI/">AI</category>
+      
+      <category domain="http://joe.brinkman.me/tags/ML/">ML</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Regex/">Regex</category>
+      
+      
+      <comments>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-12/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Bits and Bytes - 2022-11</title>
+      <link>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-11/</link>
+      <guid>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-11/</guid>
+      <pubDate>Wed, 26 Oct 2022 03:23:48 GMT</pubDate>
+      
+      <description>Bits and Bytes is my list of interesting videos and code projects that I&#39;ve found on my software journey.</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Blogs-x2F-Articles"><a href="#Blogs-x2F-Articles" class="headerlink" title="Blogs&#x2F;Articles"></a>Blogs&#x2F;Articles</h2><ul><li><a href="https://www.christianstrunk.com/blog/how-to-get-started-with-user-story-mapping">How to get started with user story mapping</a> &#x2F;&#x2F; Christian Strunk</li><li><a href="https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership">Ego Is the Enemy of Good Leadership</a> &#x2F;&#x2F; Rasmus Hougard and Jacqueline Carter</li><li><a href="https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/">Can GitHub’s Copilot AI put the fun back into being a developer?</a> &#x2F;&#x2F; Liam Tung</li><li><a href="https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component">A PDF Embed Web Component</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text">Web Component Experiment - Manipulating Inner Text</a> &#x2F;&#x2F; Ray Camden</li><li><a href="https://improving.com/thoughts/empathy-the-secret-sauce-in-design">Empathy: The Secret Sauce in Good Design</a> &#x2F;&#x2F; Tony Brown</li><li><a href="https://ardalis.com/if-no-one-says-no-your-rate-is-too-low/">If No One Says No, Your Rate is Too Low</a> &#x2F;&#x2F; Steve Smith (Ardalis)</li></ul><p> <a href="https://www.eventbrite.com/e/399161712427/?discount=CL-VIP-IMPROVING"> <img src="/2022/10/26/Bits-and-Bytes-2022-11/codelaunch_dfw.png" alt="CodeLaunch DFW - Register for Free!"> </a></p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2><ul><li><a href="https://youtu.be/8fi7uSYlOdc">Containers From Scratch • Liz Rice • GOTO 2018</a> &#x2F;&#x2F; GOTO Conferences &#x2F;&#x2F; <em>Jun 29, 2018</em></li><li><a href="https://youtu.be/8TyoihVGErI">A couple of cool things you can do with CSS position sticky</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Apr 03, 2019</em></li><li><a href="https://youtu.be/T8EYosX4NOo">Introduction to the Intersection Observer JavaScript API</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Jun 12, 2019</em></li><li><a href="https://youtu.be/PfuITCiIDwQ">Work Your Network: Leveraging the Strength Behind Professional Relationships (Amy Fair)</a> &#x2F;&#x2F; Dennis Shiao &#x2F;&#x2F; <em>Dec 10, 2020</em></li><li><a href="https://youtu.be/CB3wsw0UCVc">3 awesome tools for a better front-end dev experience</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Nov 30, 2021</em></li><li><a href="https://youtu.be/VONSx_ftkz8">The QUIC Protocol, HTTP3, and How HTTP Has Evolved</a> &#x2F;&#x2F; TheDataDaddi &#x2F;&#x2F; <em>Feb 28, 2022</em></li><li><a href="https://youtu.be/hyJ2oPyaHkY">The right way to Docker Compose 🐳 🐙</a> &#x2F;&#x2F; Alex Ziskind &#x2F;&#x2F; <em>Sep 12, 2022</em></li><li><a href="https://youtu.be/7MWmIhfvnes">5 Things Successful Developers Do (That You Don’t)</a> &#x2F;&#x2F; James Q Quick &#x2F;&#x2F; <em>Sep 13, 2022</em></li><li><a href="https://youtu.be/TBk1n1O6Kmc">Catch SQL Injection Vulnerabilities</a> &#x2F;&#x2F; GitHub &#x2F;&#x2F; <em>Sep 14, 2022</em></li><li><a href="https://youtu.be/Dzn5BjAcCB0">Type Aliases in Typescript</a> &#x2F;&#x2F; Hitesh Choudhary &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/pj7D0tSNmEg">Is Figma Dead? - Penpot, the Open Source Figma Alternative</a> &#x2F;&#x2F; LevelUpTuts &#x2F;&#x2F; <em>Sep 15, 2022</em></li><li><a href="https://youtu.be/reL-ke2J03o">Keynote - The Next Decade of Software Development - Richard Campbell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Sep 19, 2022</em></li><li><a href="https://youtu.be/3_-Je5XpbqY">Container Queries are going to change how we make layouts</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 20, 2022</em></li><li><a href="https://youtu.be/ZSaAHb5dRwQ">New CSS Units! Query units explained</a> &#x2F;&#x2F; Kevin Powell &#x2F;&#x2F; <em>Sep 22, 2022</em></li><li><a href="https://youtu.be/5DCxTuFASzo">“Cache Rules Everything Around Me” By Matt Groves (Couchbase)</a> &#x2F;&#x2F; Sam Nasr &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/GX1lJ1dSJVY">Mike Benkovich on Infrastructure as Code [TECHNOLOGYANDFRIENDS 722]</a> &#x2F;&#x2F; Technology and Friends &#x2F;&#x2F; <em>Sep 23, 2022</em></li><li><a href="https://youtu.be/99eLybGBqgk">CEO or Creator or Engineer??? Ex-Twitch YC Founder Reflects on a Harris Heller video…</a> &#x2F;&#x2F; Theo - ping․gg &#x2F;&#x2F; <em>Sep 24, 2022</em></li><li><a href="https://youtu.be/UNMF5AS4SLg">“Expert Software Developers’ Approach to Error” by Marian Petre (Strange Loop 2022)</a> &#x2F;&#x2F; Strange Loop Conference &#x2F;&#x2F; <em>Oct 03, 2022</em></li><li><a href="https://youtu.be/I5kx__o4S3k">Unleash the Power of Visual Studio Code - Aaron Powell - NDC Melbourne 2022</a> &#x2F;&#x2F; NDC Conferences &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/jmmz1cInNow">Adding a BETTER way to loop in C#</a> &#x2F;&#x2F; Nick Chapsas &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/ip51Y5v3WLk">JavaScript Garbage Collection is This SLOW????</a> &#x2F;&#x2F; ThePrimeagen &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/fD6DqryXA0w">Targeting Linux with .NET 6&#x2F;7 and WSL (Windows Subsystem for Linux) on Windows 11</a> &#x2F;&#x2F; Scott Hanselman &#x2F;&#x2F; <em>Oct 17, 2022</em></li><li><a href="https://youtu.be/WnUi4UYhdPs">Deconstructing the DevOps Hype - Improving Talks Series</a> &#x2F;&#x2F; Improving &#x2F;&#x2F; <em>Oct 14, 2022</em></li></ul><h2 id="Code-Repos-x2F-x2F-Cool-Projects"><a href="#Code-Repos-x2F-x2F-Cool-Projects" class="headerlink" title="Code Repos &#x2F;&#x2F; Cool Projects"></a>Code Repos &#x2F;&#x2F; Cool Projects</h2><ul><li><a href="https://github.com/lucide-icons/lucide">Lucide Icons</a> &#x2F;&#x2F; Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</li><li><a href="https://github.com/dragonflydb/dragonfly">Dragonfly</a> &#x2F;&#x2F; A modern replacement for Redis and Memcached</li></ul>]]></content:encoded>
       
       
       
@@ -45,7 +106,7 @@
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
       
       
-      <comments>http://joe.brinkman.me/2022/10/19/Bits-and-Bytes-2022-11/#disqus_thread</comments>
+      <comments>http://joe.brinkman.me/2022/10/26/Bits-and-Bytes-2022-11/#disqus_thread</comments>
       
     </item>
     
@@ -177,17 +238,17 @@
       
       <category domain="http://joe.brinkman.me/tags/Leadership/">Leadership</category>
       
+      <category domain="http://joe.brinkman.me/tags/Scrum/">Scrum</category>
+      
+      <category domain="http://joe.brinkman.me/tags/Firebase/">Firebase</category>
+      
       <category domain="http://joe.brinkman.me/tags/Blazor/">Blazor</category>
       
       <category domain="http://joe.brinkman.me/tags/Axios/">Axios</category>
       
       <category domain="http://joe.brinkman.me/tags/Entity-Framework-Core/">Entity Framework Core</category>
       
-      <category domain="http://joe.brinkman.me/tags/Scrum/">Scrum</category>
-      
       <category domain="http://joe.brinkman.me/tags/PowerApps/">PowerApps</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Firebase/">Firebase</category>
       
       <category domain="http://joe.brinkman.me/tags/Bootstrap/">Bootstrap</category>
       
@@ -431,6 +492,8 @@
       
       <category domain="http://joe.brinkman.me/tags/Docker/">Docker</category>
       
+      <category domain="http://joe.brinkman.me/tags/Kubernetes/">Kubernetes</category>
+      
       <category domain="http://joe.brinkman.me/tags/LINQ/">LINQ</category>
       
       <category domain="http://joe.brinkman.me/tags/CQRS/">CQRS</category>
@@ -446,8 +509,6 @@
       <category domain="http://joe.brinkman.me/tags/ESM/">ESM</category>
       
       <category domain="http://joe.brinkman.me/tags/Mediatr/">Mediatr</category>
-      
-      <category domain="http://joe.brinkman.me/tags/Kubernetes/">Kubernetes</category>
       
       <category domain="http://joe.brinkman.me/tags/Auth/">Auth</category>
       
